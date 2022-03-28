@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BruttoNettoRechner</string>
+    <string name="figure">Betrag</string>
+    <string name="_19">19 %</string>
+    <string name="_7">7 %</string>
+    <string name="gross">Brutto</string>
+    <string name="net">Netto</string>
+    <string name="tax">Umsatzsteuer</string>
+</resources>
